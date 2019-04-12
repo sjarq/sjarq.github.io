@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+font-size: 16px;
+font-weight: 400;
+color: #ff9933;
+text-transform: uppercase;
+letter-spacing: 3px;
+padding: 25px;
+}
+
+p {
+  font-size: 24px;
+  width: 800px;
+  line-height: 50px;
+  margin: 50px 25px;
+}
+
+ul{
+  font-size: 16px;
+  line-height: 32px;
+}
+
+img{
+  width: 45%;
+  padding: 25px;
+}
+
+img:hover {
+  color: #ff9933;
+}
+
+.left {
+  float: left;
+  margin-left: 25px;
+  display: block;
+}
+
+.right {
+  float: right;
+
+  margin-right: 25px;
+  display: block;
+}
